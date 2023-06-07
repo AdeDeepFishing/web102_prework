@@ -28,6 +28,10 @@ Here's a walkthrough of implemented features:
 
 ![ezgif com-video-to-gif (1)](https://github.com/AdeDeepFishing/web102_prework/assets/91364746/6ce4b6d5-fde3-44cd-9174-e7a7629db178)
 
+![ezgif com-video-to-gif (2)](https://github.com/AdeDeepFishing/web102_prework/assets/91364746/5b1afadc-8b42-4c1f-af9f-1e2ce4478a27)
+
+![ezgif com-video-to-gif (3)](https://github.com/AdeDeepFishing/web102_prework/assets/91364746/09cd7a75-1501-4dc6-ab6f-23b1863f8c15)
+
 
 
 ## Notes
