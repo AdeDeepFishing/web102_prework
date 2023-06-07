@@ -23,14 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-video-to-gif](https://github.com/AdeDeepFishing/web102_prework/assets/91364746/9995a179-1d8a-4588-9743-a63f6ab29292)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![ezgif com-video-to-gif (1)](https://github.com/AdeDeepFishing/web102_prework/assets/91364746/6ce4b6d5-fde3-44cd-9174-e7a7629db178)
+
+
 
 ## Notes
 
