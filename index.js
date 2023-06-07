@@ -171,3 +171,25 @@ firstGameContainer.appendChild(topGameName);
 let runnerUpName = document.createElement("h2");
 runnerUpName.textContent = runnerUp.name;
 secondGameContainer.appendChild(runnerUpName);
+
+// fo the search
+// grab the search input field
+const searchInput = document.getElementById("search-input");
+
+// add an event listener to the search input field
+searchInput.addEventListener('keyup', function(event) {
+    // get the current value of the input field
+    const searchTerm = event.target.value.toLowerCase();
+
+    // filter the games based on the search term
+    const filteredGames = GAMES_JSON.filter(game => game.name.toLowerCase().includes(searchTerm));
+
+    // clear the current games
+    deleteChildElements(gamesContainer);
+
+    // re-add the filtered games to the page
+    addGamesToPage(filteredGames);
+});
+
+
+
